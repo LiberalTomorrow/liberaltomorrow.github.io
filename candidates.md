@@ -9,6 +9,7 @@
 | [Scott Wiener](https://www.scottwiener.com/)  | California Senate | 11 | [Donate](https://www.scottwiener.com/donate)  |
 
 ## Florida
+
 | Candidate | Position | District/Ward | Donation Page |
 | --- | --- | --- | --- | --- |
 | [Joshua Lopez](https://joshualopez.vote/)  | Florida House of Representatives | 77 | [Donate](https://secure.actblue.com/donate/joshua-lopez-for-district-77-1)  |
