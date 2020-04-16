@@ -8,8 +8,6 @@
 | [Marjan Philhour](https://www.votemarjan.com/)  | San Francisco Board of Supervisors | 1 | [Donate](https://secure.democracyengine.com/PhilhourSupervisor2020)  |
 | [Scott Wiener](https://www.scottwiener.com/)  | California Senate | 11 | [Donate](https://www.scottwiener.com/donate)  |
 
-## District of Columbia
-
 ## Florida
 
 | Candidate | Position | District/Ward | Donation Page |
@@ -19,4 +17,24 @@
 
 ## Massachusetts
 
+| Candidate | Position | District/Ward | Donation Page |
+| --- | --- | --- | --- | --- |
+| [Andrew Flowers](http://andrewflowers.com/)  | Massachusetts House of Representatives | 8th Norfolk | [Donate](https://secure.actblue.com/donate/andrew-flowers)  |
+
+## North Carolina
+
+| Candidate | Position | District/Ward | Donation Page |
+| --- | --- | --- | --- | --- |
+| [Ronnie Chatterji](http://andrewflowers.com/)  | North Carolina Treasurer | - | [Donate](https://secure.actblue.com/donate/ronnie-for-nc-fam)  |
+
 ## Texas
+
+| Candidate | Position | District/Ward | Donation Page |
+| --- | --- | --- | --- | --- |
+| [Chrysta Castaneda](https://chrystafortexas.com/index.html)*  | Texas Railroad Commission | - | [Donate](https://secure.actblue.com/donate/bp-chrysta-website)  |
+
+\* Primary runoff
+
+# Someone else?
+
+If you know of a candidate that would fit well with Liberal Tomorrow that is not listed, please email us at [Team@LiberalTomorrow.com](mailto:Team@LiberalTomorrow.com) or DM us on [Twitter](https://twitter.com/LiberalTomorrow) to get them added.
