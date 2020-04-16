@@ -1,10 +1,1 @@
-## Candidates
-### California
-#### San Francisco Board of Supervisors
-* Ahsha Safai
-* Danny Sauter
-* Marjan Philhour
-
-### District of Columbia
-
-### Texas
+Liberal Tomorrow is a collection of activists working to elect liberal and YIMBY candidates in state and local elections
