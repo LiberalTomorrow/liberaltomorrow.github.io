@@ -8,6 +8,8 @@
 | [Marjan Philhour](https://www.votemarjan.com/)  | San Francisco Board of Supervisors | 1 | [Donate](https://secure.democracyengine.com/PhilhourSupervisor2020)  |
 | [Scott Wiener](https://www.scottwiener.com/)  | California Senate | 11 | [Donate](https://www.scottwiener.com/donate)  |
 
+## District of Columbia
+
 ## Florida
 
 | Candidate | Position | District/Ward | Donation Page |
@@ -15,6 +17,6 @@
 | [Joshua Lopez](https://joshualopez.vote/)  | Florida House of Representatives | 77 | [Donate](https://secure.actblue.com/donate/joshua-lopez-for-district-77-1)  |
 | [Omari Hardy](https://twitter.com/OmariJHardy)  | Florida House of Representatives | 88 | [Donate](https://politics.raisethemoney.com/omarihardy) |
 
-## District of Columbia
+## Massachusetts
 
 ## Texas
