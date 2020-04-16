@@ -17,21 +17,22 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">site.title</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p><small>site.description</small></p>
+        <p><small>{{ site.description }}</small></p>
 
-        <p><strong>Socal Media</strong><br><a href="{{ site.twitter }}"><i class="fab fa-twitter fa-2x"></i></a></p>
 
         <ul class="downloads">
           <li><a href="{{ "/" | absolute_url }}">Home</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/candidates">Candidates</a></li>
         </ul>
+
+        <p><strong>Socal Media</strong><br><br><a href="{{ site.twitter }}"><i class="fab fa-twitter fa-2x"></i></a></p>
       </header>
       <section>
 
