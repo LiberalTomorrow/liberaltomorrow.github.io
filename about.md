@@ -8,3 +8,8 @@ There are three problems to this method of giving. First, senators and president
 Liberal Tomorrow is a loose group of activists looking to apply the idea of "bundling" to state and local politics. One small dollar donation might not have power, but coordinated small dollar donations lets candidates know that we have their back. That makes our issues more important.
 
 Liberal Tomorrow isn’t a PAC or SuperPAC; that would require wasting thousands of dollars on regulatory compliance. Further, some candidates are not even taking PAC money. Instead, it is a listing of Neoliberal/YIMBY friendly candidates and their small dollar donation pages. You get to decide which candidates closest align with your priorities and donate directly to them.
+
+# Team
+
+* [Tom Fish](https://geo.fish) ([Convener](https://en.wikipedia.org/wiki/Clerk_(Quaker)))
+* [Steven Buss](https://twitter.com/sbuss)
