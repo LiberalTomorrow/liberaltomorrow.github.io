@@ -42,7 +42,7 @@ bundle exec jekyll serve
 
 1. Fork this repo
 1. Create a branch
-1. Open a pull request against this repo and tag @Guerillero and @sbuss
+1. Open a pull request against this repo and tag [@Guerillero](https://github.com/Guerillero) and [@sbuss](https://github.com/sbuss)
 
 If your PR is only adding or removing candidates, please note that we will
 close it and refer you to our candidate intake channels.
