@@ -11,20 +11,20 @@ logo: "assets/img/LT.jpg"
 url: "https://liberaltomorrow.com"
 
 twitter:
-  username: "LiberalTomorrow"
+    username: "LiberalTomorrow"
 github_username: "LiberalTomorrow"
 repository: "LiberalTomorrow/liberaltomorrow.github.io"
 social:
-  type: "Organization"
-  name: "Liberal Tomorrow"
-  links:
-    - "https://twitter.com/LiberalTomorrow"
-    - "https://github.com/LiberalTomorrow"
+    type: "Organization"
+    name: "Liberal Tomorrow"
+    links:
+        - "https://twitter.com/LiberalTomorrow"
+        - "https://github.com/LiberalTomorrow"
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-163820281-1"
-    anonymize_ip: false
+    provider: "google-gtag"
+    google:
+        tracking_id: "UA-163820281-1"
+        anonymize_ip: false
 
 # Open graph (social sharing) image
 og_image: "assets/img/LT.jpg"
