@@ -1,6 +1,7 @@
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 # Not sure if we need remote_theme. Depends on github-pages deploy flow.
-# remote_theme: mmistakes/minimal-mistakes
+# I'm betting remote_theme is the right choice.
+remote_theme: mmistakes/minimal-mistakes
 
 title: "Liberal Tomorrow"
 title_separator: "|"
@@ -32,6 +33,8 @@ github: [metadata]
 
 plugins:
     - jekyll-seo-tag
+    - jekyll-include-cache
+    - jekyll-feed
 
 footer:
   links:
