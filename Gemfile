@@ -16,6 +16,8 @@ gem "jekyll", "~> 3.7.3"
 group :jekyll_plugins do
   # Github minimal jekyll theme
   gem "github-pages"
+  gem "minimal-mistakes-jekyll"
+  gem "jekyll-seo-tag"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
