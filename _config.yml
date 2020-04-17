@@ -4,3 +4,6 @@ description: Political action today for a liberal tomorrow
 logo: LT.jpg
 twitter: https://twitter.com/LiberalTomorrow
 google_analytics: UA-163820281-1
+
+plugins:
+    - jekyll-seo-tag
