@@ -1,4 +1,11 @@
-# Candidates
+---
+title: Candidates
+layout: single
+classes: wide
+---
+
+# November 2020
+
 ## California
 
 | Candidate | Position | District/Ward | Donation Page |

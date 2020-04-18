@@ -1,6 +1,46 @@
-theme: jekyll-theme-minimal
-title: Liberal Tomorrow
-description: Political action today for a liberal tomorrow
-logo: LT.jpg
-twitter: https://twitter.com/LiberalTomorrow
-google_analytics: UA-163820281-1
+# theme: minimal-mistakes-jekyll
+# Not sure if we need remote_theme. Depends on github-pages deploy flow.
+# I'm betting remote_theme is the right choice.
+remote_theme: mmistakes/minimal-mistakes
+
+title: "Liberal Tomorrow"
+title_separator: "|"
+subtitle: "Version 2020.04"
+description: "Political action today for a liberal tomorrow"
+logo: "assets/img/LT.jpg"
+url: "https://liberaltomorrow.com"
+
+twitter:
+    username: "LiberalTomorrow"
+github_username: "LiberalTomorrow"
+repository: "LiberalTomorrow/liberaltomorrow.github.io"
+social:
+    type: "Organization"
+    name: "Liberal Tomorrow"
+    links:
+        - "https://twitter.com/LiberalTomorrow"
+        - "https://github.com/LiberalTomorrow"
+analytics:
+    provider: "google-gtag"
+    google:
+        tracking_id: "UA-163820281-1"
+        anonymize_ip: false
+
+# Open graph (social sharing) image
+og_image: "assets/img/LT.jpg"
+
+github: [metadata]
+
+plugins:
+    - jekyll-seo-tag
+    - jekyll-include-cache
+    - jekyll-feed
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LiberalTomorrow"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LiberalTomorrow"

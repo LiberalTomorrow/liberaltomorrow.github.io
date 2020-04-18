@@ -1,4 +1,8 @@
-# About
+---
+title: About
+layout: single
+---
+
 Liberal Tomorrow was born out of a walk, through DC on an abnormally warm January day. Between encryption policy and the democratic primary, two activists discussed how to apply the idea of [effective altruism](https://www.effectivealtruism.org/) to political giving. Most people give to candidates as a [political hobbyist](https://www.vox.com/2020/3/11/21172064/politics-is-for-power-eitan-hersh-the-ezra-klein-show): the check book only comes out when a presidential candidate makes an effective dunk on a rival or when a senator grandstands in a hearing.
 
 ## Problems
