@@ -32,7 +32,7 @@ classes: wide
 
 | Candidate | Position | District/Ward | Donation Page |
 | --- | --- | --- | --- | --- |
-| [Ronnie Chatterji](http://andrewflowers.com/)  | North Carolina Treasurer | - | [Donate](https://secure.actblue.com/donate/ronnie-for-nc-fam)  |
+| [Ronnie Chatterji](https://www.ronniechatterji.com/)  | North Carolina Treasurer | - | [Donate](https://secure.actblue.com/donate/ronnie-for-nc-fam)  |
 
 ## Texas
 
