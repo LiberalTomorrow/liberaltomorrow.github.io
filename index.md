@@ -7,7 +7,7 @@ header:
   overlay_image: "/assets/img/splash-example.jpg"
   actions:
     - label: "View Candidates"
-      url: "/candidates"
+      url: "/candidates/"
 ---
 Liberal Tomorrow is a collection of activists working to elect liberal and YIMBY candidates in state and local elections. We endorse and "bundle" money for [candidates](/candidates) that share our views.
 
