@@ -2,6 +2,7 @@
 title: Candidates
 layout: single
 classes: wide
+permalink: candidates/
 ---
 
 # November 2020
