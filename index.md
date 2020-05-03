@@ -8,6 +8,8 @@ header:
   actions:
     - label: "View Candidates"
       url: "/candidates/"
+    - label: "Stay Informed"
+      url: "/subscribe/"
 ---
 
 
