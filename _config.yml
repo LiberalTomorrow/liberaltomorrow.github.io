@@ -7,7 +7,7 @@ title: "Liberal Tomorrow"
 title_separator: "|"
 subtitle: "Version 2020.04"
 description: "Political action today for a liberal tomorrow"
-logo: "assets/img/LT.jpg"
+logo: "assets/img/logo-blue-bg.png"
 url: "https://liberaltomorrow.com"
 
 twitter:
@@ -27,7 +27,7 @@ analytics:
         anonymize_ip: false
 
 # Open graph (social sharing) image
-og_image: "assets/img/LT.jpg"
+og_image: "assets/img/logo-blue-bg.png"
 
 github: [metadata]
 
