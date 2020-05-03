@@ -2,9 +2,7 @@
 layout: splash
 date: 2020-04-16
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: "/assets/img/splash-example.jpg"
+  overlay_image: "/assets/img/masthead.png"
   actions:
     - label: "View Candidates"
       url: "/candidates/"
