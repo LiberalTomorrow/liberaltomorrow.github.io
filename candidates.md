@@ -40,7 +40,7 @@ permalink: candidates/
 
 | Candidate | Position | District/Ward | Donation Page |
 | --- | --- | --- | --- | --- |
-| [Chrysta Castaneda](https://chrystafortexas.com/index.html)*  | Texas Railroad Commission | - | [Donate](https://secure.actblue.com/donate/bp-chrysta-website)  |
+| [Chrysta Castaneda](https://chrystafortexas.com/index.html)\*  | Texas Railroad Commission | - | [Donate](https://secure.actblue.com/donate/bp-chrysta-website)  |
 
 \* Primary runoff
 
